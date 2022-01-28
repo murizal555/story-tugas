@@ -1,12 +1,43 @@
 # story-tugas
 Aplikasi ini bernama STORY TUGAS dimanana mahasiwa/mahasiswi STMIK LOMBOK mengupload tugas yang pernah di presentasikan atau yang di kumpulkan.
 
-TEKNOLOGI YANG DIGUNAKAN
-o	FRONT-END:HTML
-o	BACK-END :  BELUM ADA;
+Tugas kelompok  pemrogaraman web DOKUMENTASI PROJECT WEB
+Deskripsi :
+Aplikasi ini bernama STORY TUGAS dibuat untuk mengumpulkan tugas mahasiswa stmik Lombok karena bayak teman teman yang sudah presentasi  hanya mereke yang mendapatkan file atau materi yang di berikan dosen sehingga  kita membuat aplikasi yang berejudul STORY TUGAS  di aplikasi ini dosen juga bisa upload tugas yang akan di kerjakan oleh mahasiswa  
+Tujuan:
+ pembuatan aplikasi untuk memudahkan mahasiswa untuk share tugas yang sudah di presentasikan oleh mahasiwa karena bayak tugas yang di  presentasikan tidak di share oleh yang presentasi
+Teknologi yang di gunakan : html, dan css external.
+Fitur yang ada pada aplikasi: 
+
+a.	HOME
+b.	jurusan
+	•	Jurusan
+	•	Semester
+	•	Akun pengguna
+	•	Nama dosen
+c.	Galeri
+	•	Foto 
+	•	keterangan
+d.	Login 
+	•	Password
+	•	Register/daftar
+e.	Tentang
+
+
+Nama kelompok
+	•	Muhammad sadri = front-end
+	•	Ramdani hurdi =front-end 
+	•	Murizal =  front-end
+	•	Syahwin hadi = front-end
+	•	Izzatullah Farhan=front-end
+ 
+
+
+
+
 	
 LIBRARY
-•	Duckett - 1981 - HTML & CSS Design and build websites;
+	•	Duckett - 1981 - HTML & CSS Design and build websites;
 1.	HALAMAN HOME
 
 
